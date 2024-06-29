@@ -1,0 +1,7 @@
+{
+  "name": "Dawa-Pharma_Mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
