@@ -1,0 +1,1 @@
+import{r as n}from"./index-wBOoZ4ru.js";function c(e){const a=n(null),t=async()=>{const s="//127.0.0.1:8002";try{const o=await fetch("".concat(s,"/").concat(e));o.ok&&(a.value=await o.json())}catch(o){console.log("somehting may not be well because :",o)}};return console.log("useKuvoma got: ",a.value),[a,t]}export{c as u};
